@@ -1,0 +1,15 @@
+{
+    "weapons": [
+        "AWP | Electric Hive (Factory New)",
+        "Shattered Web Case",
+        "'Two Times' McCoy | USAF TACP"
+    ],
+
+    "settings": {
+        "request_interval": 30,
+        "currency": 3,
+        "country": "DE",
+        "notify_tolerance": 0.5,
+        "debug": false
+    }
+}
