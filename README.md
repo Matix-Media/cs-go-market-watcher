@@ -1,6 +1,8 @@
 # cs-go-market-watcher
 Check if the value of weapons and other market items changes.
 
+**[&#x1F534;]VERSION CONTAINS INTENTIONAL BUG! DO NOT USE![&#x1F534;]**
+
 #### Edit the weapons and settings in the settings.json file
 
 ## How do I get the right weapon name?
